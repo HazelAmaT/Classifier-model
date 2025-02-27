@@ -1,4 +1,4 @@
-# Classifier-model
+# Sprint 9 - Modelo de Clasificación para Empresa Bancaria con Clases Desbalanceadas
 
 La empresa data bank ha estado teniendo una baja de clientes de manera mensual, algo muy inusual para ellos. Los banqueros descubrieron que es más barato salvar a los clientes existentes que atraer nuevos.
 
